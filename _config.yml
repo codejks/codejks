@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://Leverty.github.io
+url:                   https://codejks.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -20,7 +20,7 @@ url:                   https://Leverty.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Postive Developer
+title:                 Fullstack Developer
 
 timezone:              Asia/Seoul
 
@@ -45,11 +45,11 @@ logo:                  /assets/img/logo254x.png
 author:
   # Used by `jekyll-feed`:
   name:                Kyusang Jo
-  email:               goldjks0512@naver.com
+  email:               goldjks0512@gmail.com
   picture:             /assets/img/logo254x.png
   social:
     instagram:         jks_0512
-    github:            Leverty
+    github:            codejks
     email:             goldjks0512@gmail.com
 
 # Add links to the footer.
