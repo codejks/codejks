@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name:              Kyusang Jo
-  email:             goldjks0512@naver.com
+  email:             goldjks0512@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -24,7 +24,7 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     instagram:       jks_0512
-    github:          Leverty
+    github:          codejks
     email:           goldjks0512@gmail.com
     # rss:             https://lazyren.github.io/feed.xml
     # facebook:        <username>
